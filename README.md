@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=velkonost&repo=UpgradeApp)]([https://github.com/velkonost/upgrade](https://github.com/Velkonost/UpgradeApp))
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=velkonost&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=velkonost&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Velkonost/velkonost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
